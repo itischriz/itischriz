@@ -1,4 +1,4 @@
-- 👋 Hi, I’m itz ChriZ
+- 👋 Hi, I’m ChriZ
 - 👀 I’m interested in all areas of technology
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: wite an email to it.iz.chriz@gmail.com
